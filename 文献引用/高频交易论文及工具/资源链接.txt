@@ -1,0 +1,9 @@
+做高频交易limit orderbook的大佬：Rama cont 
+大佬的个人主页：http://rama.cont.perso.math.cnrs.fr/
+	最新的文章：Cont, Mueller (2019): A stochastic partial differential equation model for limit order book dynamics 代码网址：https://github.com/mm842/lobpy
+	18年深度学习文章：Universal features of price formation in financial markets: perspectives from deep learning
+
+另外做高频交易的大佬：Sebastian Jaimungal，出了一本书 algorithmic_and_high_frequency_trading，代码链接在 http://sebastian.statistics.utoronto.ca/books/algo-and-hf-trading/code/ 
+											https://gist.github.com/sebjai
+一些工具库
+	QuantLib：https://github.com/SakastLord/QuantLib
